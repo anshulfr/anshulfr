@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anshul Negi</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently learning **Penetration Testing**
+- 🔭 I’m currently learning **Blue Teaming**
 
 - 📝 I regularly write articles on [https://anshulnegi.hashnode.dev](https://anshulnegi.hashnode.dev)
 
